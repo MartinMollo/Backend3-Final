@@ -2,9 +2,13 @@
 
 -execute
 npm start app.js
+
 -DockerHub Imagen
+
 -- URL: https://hub.docker.com/r/martinhmollo/pets/tags
+
 -- Clone: docker pull martinhmollo/pets:latest
+
 POSTMAN:
 
 -generar mascotas
